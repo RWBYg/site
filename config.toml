@@ -2,7 +2,6 @@ baseURL = "https://rwbyg.club/"
 languageCode = "en-us"
 title = "/RWBYg/"
 theme = "paperback"
-publishDir = "docs"
 
 [params]
 # tagline to show beneath homepage h1
